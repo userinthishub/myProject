@@ -1,5 +1,5 @@
 pipeline {
-  
+  agent Windows
   tools {
     maven '3.3.9'
   }
