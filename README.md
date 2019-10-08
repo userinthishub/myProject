@@ -34,3 +34,5 @@ https://www.youtube.com/watch?v=0rfSsePLYhE
 https://www.youtube.com/watch?v=8yo44xN7-nQ
 
 https://stackoverflow.com/questions/56624065/how-can-i-improve-the-react-performance-if-i-have-many-text-inputs-hooks-in-a
+
+https://github.com/addyosmani/tmdb-viewer
